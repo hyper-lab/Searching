@@ -9,6 +9,7 @@
     <label for="text">Search</label>
     <input type="text">
     <button type="submit" id = "btn">Search</button>
-
+<h1>Hello</h1>
+<h1>hi my name is </h1>
 </body>
 </html>
